@@ -10,12 +10,8 @@ attr_accessor :name, :age, :breed
     @@all << self
   end
 
-  def self.all 
-    @@all 
+  def self.all
+    @@all
   end
-
-
-
-
 
 end
